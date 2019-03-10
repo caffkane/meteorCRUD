@@ -1,6 +1,6 @@
 # Meteor App - Keela
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-> An app open the MeteorJS framework, with login, registration, teams & more!
+> An app using the MeteorJS framework, with login, registration, teams & more!
 
 ## Table of contents
 * [General info](#general-info)
@@ -36,6 +36,7 @@ brew tap mongodb/brew && brew install mongodb-community@4.0
 git clone git@github.com:tekm/meteorapp-keela.git
 cd meteorapp-keela
 ```
+Or Use Heroku Deploy Button
 Demo: https://meteorapp-keela.herokuapp.com/
 
 ## Code Examples
@@ -63,4 +64,4 @@ d. What you would like to implement or work on if you had more time
 ## Contact
 Email: logan.kane1@gmail.com
 
-[github] (github.com/tekm)
+[github](github.com/tekm)
