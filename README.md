@@ -1,4 +1,5 @@
 # Meteor App - Keela
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 > An app open the MeteorJS framework, with login, registration, teams & more!
 
 ## Table of contents
