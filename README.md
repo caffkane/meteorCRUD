@@ -28,12 +28,13 @@ MongoDB.
 * HTML, CSS, JavaScript
 
 ## Setup
-`For Mac: curl https://install.meteor.com/ | sh `
-`brew tap heroku/brew && brew install heroku`
-`brew tap mongodb/brew && brew install mongodb-community@4.0`
-`git clone git@github.com:tekm/meteorapp-keela.git`
-`cd meteorapp-keela`
-
+```
+For Mac: curl https://install.meteor.com/ | sh
+brew tap heroku/brew && brew install heroku
+brew tap mongodb/brew && brew install mongodb-community@4.0
+git clone git@github.com:tekm/meteorapp-keela.git
+cd meteorapp-keela
+```
 Demo: https://meteorapp-keela.herokuapp.com/
 
 ## Code Examples
@@ -51,10 +52,14 @@ May use circleci or travisci, deciding
 
 ## Info For Keela
 a. General flow of how to use the app
+
 b. How you structured the data
+
 c. What was challenging, what you struggled with
+
 d. What you would like to implement or work on if you had more time
 
 ## Contact
 Email: logan.kane1@gmail.com
-github.com/tekm
+
+[github] (github.com/tekm)
