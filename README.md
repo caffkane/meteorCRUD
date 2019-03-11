@@ -37,14 +37,15 @@ git clone git@github.com:tekm/meteorapp-keela.git
 cd meteorapp-keela
 ```
 Or Use Heroku Deploy Button
+
 Demo: https://meteorapp-keela.herokuapp.com/
 
 ## Code Examples
 `future code here`
 
 ## Features
-* Login Page with Google OAuth Login
-* Registration Page with Google OAuth Login
+* Login Page with Google OAuth Login & Twitter OAuth Login
+* Registration Page with Google OAuth Login & Twitter OAuth Login
 * User Page with email & name
 * Teams page with the ability to view, create, search for users, and add to team
 
