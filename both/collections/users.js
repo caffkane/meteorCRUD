@@ -12,15 +12,6 @@ Schema.UserProfile = new SimpleSchema({
         type: String,
         optional: true
     },
-    birthday: {
-        type: Date,
-        optional: true
-    },
-    gender: {
-        type: String,
-        allowedValues: ['Male', 'Female'],
-        optional: true
-    },
     organization : {
         type: String,
         optional: true
