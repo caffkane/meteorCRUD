@@ -18,17 +18,7 @@ to create an application using the MeteorJS framework, with a front end using Bl
 MongoDB.
 
 ## Screenshots
-![Screen1](./img/Screen2.png=100x20)
-
-![Screen2](./img/Screen2.png=100x20)
-
-![Screen3](./img/Screen3.png=100x20)
-
-![Screen4](./img/Screen4.png=100x20)
-
-![Screen5](./img/Screen5.png=100x20)
-
-![Screen6](./img/Screen6.png=100x20)
+<img width="200" alt="Screen2" src="https://user-images.githubusercontent.com/10205799/54791074-8e6ba200-4bf5-11e9-8266-8a3b2fe34b05.png"><img width="200" alt="Screen3" src="https://user-images.githubusercontent.com/10205799/54791075-8e6ba200-4bf5-11e9-8202-17faa73f16af.png"><img width="200" alt="Screen4" src="https://user-images.githubusercontent.com/10205799/54791076-8e6ba200-4bf5-11e9-868b-5528f78618c1.png"><img width="200" alt="Screen5" src="https://user-images.githubusercontent.com/10205799/54791077-8e6ba200-4bf5-11e9-876e-30ff3e1099b2.png"><img width="200" alt="Screen6" src="https://user-images.githubusercontent.com/10205799/54791078-8e6ba200-4bf5-11e9-93f6-e896f28ef257.png">
 
 ## Technologies
 * MeteorJS - version 1.8.0.2
