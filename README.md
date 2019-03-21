@@ -18,9 +18,11 @@ to create an application using the MeteorJS framework, with a front end using Bl
 MongoDB.
 
 ## Screenshots
-![Screen1](./img/screenshot1.png)
-![Screen2](./img/screenshot2.png)
-![Screen3](./img/screenshot3.png)
+![Screen1](./img/Screen1 =100x20)
+![Screen2](./img/Screen2 =100x20)
+![Screen3](./img/Screen3 =100x20)
+![Screen4](./img/Screen4 =100x20)
+![Screen5](./img/Screen5 =100x20)
 
 ## Technologies
 * MeteorJS - version 1.8.0.2
@@ -35,6 +37,9 @@ brew tap heroku/brew && brew install heroku
 brew tap mongodb/brew && brew install mongodb-community@4.0
 git clone git@github.com:tekm/meteorapp-keela.git
 cd meteorapp-keela
+meteor npm install
+meteor
+In Browser: localhost:3000
 ```
 Or Use Heroku Deploy Button
 
@@ -47,8 +52,8 @@ Demo: https://meteorapp-keela.herokuapp.com/
 * Teams page with the ability to view, create, search for users, and add to team
 
 ## Status
-Project is: _in progress_
-May use circleci or travisci, deciding
+Project is: _finished_
+Heroku deployment: _in progress_
 
 ## Info For Keela
 a. General flow of how to use the app\
@@ -108,11 +113,11 @@ Meteorapp-keela
 ```
 \
 c. What was challenging, what you struggled with\
-I've never used MeteorJS before, so I had to learn how to use it, what the common layouts of file structure are, benefits to using it. A big part of using MeteorJS is templating and real time updating. It's fast, easy to learn, and has good packages to make templating your site incredibly easy.
+I've never used MeteorJS before, so I had to learn how to use it, what the common layouts of file structure are, benefits to using it. It was a lot of work to learn MeteorJS as many answers to questions I had were old and had deprecated answers either on Stack Overflow or the Meteor forums. As well, Meteor's Tutorial apps to learn how the framework works, are broken. A big part of using MeteorJS is templating and real time updating.
 
 
 d. What you would like to implement or work on if you had more time\
-If I had more time I would add more functionality to user roles, and what you can do with a team. I would give teams certain capabilities, such as having access to certain commands/files. User roles would allow for only certain users to add/delete teams/files.
+If I had more time I would add more functionality to user roles, and what you can do with a team. I would give teams certain capabilities, such as having access to certain commands/files. User roles would allow for only certain users to add/delete teams/files. I would also cleanup the look of the app as it is a basic bootstrap site. I would clean up the comments, reviewing for clarity.
 
 ## Contact
 Email: logan.kane1@gmail.com\
