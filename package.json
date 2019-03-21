@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": "v11.9.0",
+    "npm":"6.9.0",
+    "yarn":"1.13.0"
+  },
   "directories": {
     "lib": "lib"
   },
-  "engines": {
-    "node": "v11.9.0"
-  },
+  
   "dependencies": {
     "@babel/runtime": "^7.4.2",
     "bcrypt": "^3.0.5",
