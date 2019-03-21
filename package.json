@@ -6,6 +6,9 @@
   "directories": {
     "lib": "lib"
   },
+  "engines": {
+    "node": "v11.9.0"
+  },
   "dependencies": {
     "@babel/runtime": "^7.4.2",
     "bcrypt": "^3.0.5",
