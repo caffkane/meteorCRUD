@@ -12,6 +12,7 @@
     "lib": "lib"
   },
   "scripts": {
+    "start": "echo \"Started\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
