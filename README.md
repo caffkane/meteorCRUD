@@ -49,7 +49,6 @@ Demo: https://meteorapp-keela.herokuapp.com/
 
 ## Status
 Project is: _finished_
-Heroku deployment: _in progress_
 
 ## Info For Keela
 a. General flow of how to use the app\
