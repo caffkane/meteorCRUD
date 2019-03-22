@@ -59,55 +59,9 @@ There is a tab for teams. Selecting this tab allows for you to see the various t
 
 
 b. How you structured the data\
-The data is structured as follows. This allows for a nice hierarchy, that is clean and easy to follow. All functions are broken up into their respective folders.
+The data is structured into client (with auth and views), server (config), both (shared), and lib (routes). This allows for a nice hierarchy, that is clean and easy to follow. All functions are broken up into their respective folders.
 
-```
-| bar = tree structure
-- dash = folder
-_ underscore = file
 
-Meteorapp-keela
-|
-|---client
-|      |_______ main.css
-|      |_______ main.html
-|      |_______ main.js
-|
-|---server
-|      |_______ main.js
-|      |_______ init.js
-|      |_______ publish.js
-|
-|---imports
-|      |---ui
-|      |   |_______ task.js
-|      |   |_______ body.js
-|      |
-|      |---ui
-|          |_______ tasks.js
-|
-|---collections
-|        |_______ users.js
-|        |_______ teams.js
-|
-|---lib
-|    |_______ routes.js
-|
-|---tests
-|    |_______ main.js
-|
-|---node_modules
-|
-|___package-lock.json
-|
-|___package.json
-|
-|___README.md
-|
-|___app.json
-
-```
-\
 c. What was challenging, what you struggled with\
 I've never used MeteorJS before, so I had to learn how to use it, what the common layouts of file structure are, benefits to using it. It was a lot of work to learn MeteorJS as many answers to questions I had were old and had deprecated answers either on Stack Overflow or the Meteor forums. As well, Meteor's Tutorial apps to learn how the framework works, are broken. A big part of using MeteorJS is templating and real time updating.
 
